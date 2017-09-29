@@ -11,6 +11,7 @@ yarn add @zdy/react-native-input-toolbar
 (for everyone)
 ```
 yarn add file:/...path.../react-native-input-toolbar
+```
 
 ## Example
 Check in the `example` folder.
